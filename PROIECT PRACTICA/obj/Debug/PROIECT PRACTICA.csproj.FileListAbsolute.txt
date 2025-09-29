@@ -1,0 +1,84 @@
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.csproj.AssemblyReference.cache
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.LoginForm.resources
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.Properties.Resources.resources
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.csproj.GenerateResource.cache
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\PROIECT PRACTICA.exe.config
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\PROIECT PRACTICA.exe
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\PROIECT PRACTICA.pdb
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Buffers.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Formats.Asn1.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Memory.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Text.Json.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.ValueTuple.dll
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Buffers.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Formats.Asn1.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Memory.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Text.Json.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\bin\Debug\System.ValueTuple.xml
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.csproj.CopyComplete
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.exe
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.pdb
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.PaginaPrincipalaForm.resources
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.ClientiForm.resources
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.AdaugaClientForm.resources
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.PaginaPersonalaForm.resources
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.ProduseForm.resources
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.CheltuieliForm.resources
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.ToateProduseleForm.resources
+C:\Users\YAN\Desktop\C# PROJECTS\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.AdaugaProdusNouForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\PROIECT PRACTICA.exe.config
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\PROIECT PRACTICA.exe
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\PROIECT PRACTICA.pdb
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Buffers.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Formats.Asn1.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Memory.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Text.Json.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.ValueTuple.dll
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Buffers.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Formats.Asn1.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Memory.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Text.Json.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\bin\Debug\System.ValueTuple.xml
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.csproj.AssemblyReference.cache
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.AdaugaClientForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.AdaugaProdusNouForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.CheltuieliForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.ClientiForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.LoginForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.PaginaPersonalaForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.PaginaPrincipalaForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.ProduseForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.Properties.Resources.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT_PRACTICA.ToateProduseleForm.resources
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.csproj.GenerateResource.cache
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.csproj.CopyComplete
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.exe
+C:\Users\YAN\Desktop\PROIECT PRACTICA\obj\Debug\PROIECT PRACTICA.pdb
